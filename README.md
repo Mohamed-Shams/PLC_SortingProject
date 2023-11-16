@@ -1,7 +1,7 @@
 # PLC_SortingProject
 Sorting Prototype (PLC) with Computer Vision and IIOT
 
-Project Video: **
+Project Video: https://youtu.be/8Tkm_cYDlaI?si=ZV3rLsWpAwzYZYtZ
 
 ## Prerequisite Python Packages
 
